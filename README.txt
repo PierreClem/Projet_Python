@@ -1,3 +1,5 @@
+Code marchant avec des fichiers dans le même dossier.
+
 installation des Packages 
 
 conda install nltk 
