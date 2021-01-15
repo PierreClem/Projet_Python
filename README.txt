@@ -4,6 +4,10 @@ installation des Packages
 
 conda install nltk 
 
+matplotlib
+numpy
+PIL
+tkinter
 datetime
 praw
 re
