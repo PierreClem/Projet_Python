@@ -6,7 +6,7 @@ Created on Fri Jan 15 15:43:19 2021
 """
 import sys
 sys.path.insert(0, 'C:/Users/ccl13/Desktop/Master 1/projet python') # location of src 
-import All_function_TFIDF as AFT
+import TFIDF as AFT
 import pandas as pd
 
 
